@@ -16,7 +16,7 @@ BigQuery Chatbot is an intelligent conversational AI that interacts with Google 
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/AI-Solutions-Lab-LLC/hd.git
+git clone https://github.com/espin086/BigQueryChat
 cd bigquery_chatbot
 ```
 
